@@ -15,7 +15,7 @@
     "server": "nodemon index.js --ignore client"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "style-loader": "^1.1.2",
     "view-design": "^4.1.0",
     "vue": "^2.5.2",
